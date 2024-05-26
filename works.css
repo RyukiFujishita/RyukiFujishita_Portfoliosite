@@ -37,14 +37,15 @@
 }
 
 @media (max-width: 600px) {
+    
     .works {
         max-width: 400px;
         margin: 0 auto 50px;
     }
+    
     .title h1 {
         padding: 80px 0 20px 0;
         font-size: clamp(20px, 2vw, 30px);
-        
     }
     .works_description h2 {
         margin: 10px auto;
