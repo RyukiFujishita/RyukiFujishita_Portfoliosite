@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+    background-color: #f2f2f2;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+.item a {
+    overflow: hidden;
+}
+.item a img:hover{
+	transform:scale(1.1);
+	transition:0.3s;
+}
